@@ -45,4 +45,3 @@ const gB = L.marker([48.871282159004856, 2.3434818588892714],{icon: redPin}).bin
 
 const stations = L.layerGroup([rS, sSD, sentier, bourse, qS, gB]).addTo(myMap)
 
-
